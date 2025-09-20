@@ -1,0 +1,9 @@
+ultralytics==8.2.103   # YOLOv8/YOLOv7-tiny training & inference
+opencv-python          # For image/video processing
+torch                  # PyTorch (CPU/GPU)
+torchvision            # PyTorch vision utilities
+numpy                  # Array operations
+pandas                 # Dataset handling
+matplotlib             # Plotting graphs & training curves
+seaborn                # Optional: Better visualizations
+tqdm                   # Progress bars
